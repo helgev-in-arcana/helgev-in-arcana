@@ -1,4 +1,4 @@
-# helgev
+# Helgev
 
 <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helgev-in-arcana" />
 
