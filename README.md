@@ -20,6 +20,12 @@ God is in the details.
 
 </div>
 
+### [AudioGraph](https://github.com/helgev-in-arcana/audio-graph)
+
+A node-based Instrument / Effect plugin for VST3 and CLAP plugins.
+
+[![](https://github.com/helgev-in-arcana/audio-graph/blob/main/docs/example-screenshot.png?raw=true)](https://github.com/helgev-in-arcana/audio-graph)
+
 ### [Suzuri](https://github.com/helgev-in-arcana/Suzuri) [![crates.io](https://img.shields.io/crates/v/suzuri)](https://crates.io/crates/suzuri) [![Docs.rs](https://docs.rs/suzuri/badge.svg)](https://docs.rs/suzuri)
 
 A consistent text rendering crate.
@@ -38,12 +44,6 @@ Compatible with hot reloading.
 ## Working on
 
 </div>
-
-### [AudioGraph](https://github.com/helgev-in-arcana/audio-graph)
-
-A node-based Instrument / Effect plugin for VST3 and CLAP plugins.
-
-[![](https://github.com/helgev-in-arcana/audio-graph/blob/main/docs/example-screenshot.png?raw=true)](https://github.com/helgev-in-arcana/audio-graph)
 
 ### [matcha](https://github.com/helgev-in-arcana/matcha)
 
